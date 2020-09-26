@@ -1,8 +1,8 @@
 # todo
 
 A new Flutter project.
-
 Final App Will be like:
+
 ![alt text](https://miro.medium.com/max/320/1*mqN9VlClBMRDCZ1RPhQLCw.gif)
 
 ## Getting Started
